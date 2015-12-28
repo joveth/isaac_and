@@ -1,0 +1,7 @@
+<resources>
+    <color name="main_red">#eb4f38</color>
+    <color name="navpage">#ffe0e0e0</color>
+    <color name="brown">#ea8010</color>
+    <color name="gray_mask">#60000000</color>
+    <color name="gray">#ff666666</color>
+</resources>

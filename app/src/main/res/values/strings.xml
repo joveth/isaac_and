@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">以撒图鉴</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="setting_version">以撒图鉴  4.0</string>
+    <string name="setting_contact">联系信息</string>
+    <string name="setting_author">作者：</string>
+    <string name="setting_author_name">joveth</string>
+    <string name="setting_qq">Q  Q：</string>
+    <string name="setting_qq_num">247911950</string>
+    <string name="setting_mail">邮箱：</string>
+    <string name="setting_mail_addr">funny_ba@163.com</string>
+    <string name="setting_weibo">微博：</string>
+    <string name="setting_weibo_addr">新浪http://weibo.com/u/2096710855</string>
+    <string name="setting_github">github：</string>
+    <string name="setting_github_addr">https://github.com/joveth</string>
+    <string name="setting_app_infor">软件声明</string>
+    <string name="setting_copyright">以撒图鉴安卓版，如果你发现有对你造成侵权的内容，你发邮件告诉我，我改，我一定改，如果你发现内容有错或不齐，发邮件告诉我，最好是能整理好数据，不然，哼哼。如果你想支持我。请联系我，我绝对不接受少于1元的金额，当然，也是可以委曲求全的，虽然是5毛，哈~，扯远了，别放在心上。</string>
+    <string name="setting_app_for">未来计划</string>
+    <string name="setting_for">下一个版本我还没想好，所以，等啊，等啊，等到花儿都谢了，或许~~~~,：）</string>
+    <string name="setting_author_is">作者の梗</string>
+    <string name="setting_author_fuck">并不是我睡觉不喜欢穿衣服，我也是自恋的人，看，多帅啊，啪，谁？，谁这么缺德把这块阿姆斯特丹郎右琪镶玉米夹心砖块扔在了我的头上？有本事出来，我保证让你哭天喊地，啊，救命，大哥饶命，我只是说笑，没让你出来啊，啥？以后不要刷帅了？这是没办法的事情啊，好好好，我一定改，从此以后我过上了幸福而又泪流满面的生活。</string>
+    <string name="setting_suggest">意见反馈</string>
+    <string name="setting_send_suggest">发送反馈意见</string>
+    <string name="setting_hint">如果输入法弹出框遮盖了输入框，你可以向上拉一下哦</string>
+</resources>
